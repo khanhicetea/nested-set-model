@@ -1,4 +1,4 @@
-Nested Set Model for multi-level categories
+Nested Set Model
 ================
 
 ### Giới thiệu
