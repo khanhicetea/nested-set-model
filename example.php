@@ -1,5 +1,5 @@
 <?php
-  include 'Db.php';
+  include 'DB.php';
   include 'Model.php';
   include 'NestedModel.php';
   
